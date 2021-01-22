@@ -11,6 +11,7 @@
 		3E82285825BAB1C600F2E3DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E82285725BAB1C600F2E3DE /* ContentView.swift */; };
 		3E82285A25BAB1CD00F2E3DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E82285925BAB1CD00F2E3DE /* Assets.xcassets */; };
 		3E82285D25BAB1CD00F2E3DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E82285C25BAB1CD00F2E3DE /* Preview Assets.xcassets */; };
+		3E82286625BAB3C600F2E3DE /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E82286525BAB3C600F2E3DE /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3E82285925BAB1CD00F2E3DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E82285C25BAB1CD00F2E3DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3E82285E25BAB1CD00F2E3DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E82286525BAB3C600F2E3DE /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3E82285525BAB1C600F2E3DE /* Swift_UI_WeatherApp.swift */,
 				3E82285725BAB1C600F2E3DE /* ContentView.swift */,
+				3E82286525BAB3C600F2E3DE /* WeatherButton.swift */,
 				3E82285925BAB1CD00F2E3DE /* Assets.xcassets */,
 				3E82285E25BAB1CD00F2E3DE /* Info.plist */,
 				3E82285B25BAB1CD00F2E3DE /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3E82285825BAB1C600F2E3DE /* ContentView.swift in Sources */,
 				3E82285625BAB1C600F2E3DE /* Swift_UI_WeatherApp.swift in Sources */,
+				3E82286625BAB3C600F2E3DE /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
